@@ -1,0 +1,49 @@
+.nav__link{
+font-size: 15px;
+text-align: center;
+color: rgb(255, 0, 0);
+border-width: 10px;
+text-decoration: none;
+border-style: solid;
+border-color: darkslateblue;
+border-radius: 10px;
+background-color: darkslateblue;
+height: 10px;
+display: inline-flex;
+margin: 10px
+}
+
+.header{
+background-image: url(../assets/couleur-wallpaper-style-fond.jpg);
+background-size: cover;
+height: 300px
+}
+    
+.element,
+.nav__categories{list-style: none;
+margin-bottom: 50px
+}
+
+
+.header__title{text-align: center;
+font-size: 3rem;
+font-family: fantasy;
+color: aliceblue;
+font-variant: small-caps;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+        
+.nav__categories{
+text-transform: uppercase;
+margin: 20px
+
+}
+        
+.nav__category{ display: inline;
+}
+
+.header__subtitle{
+    font-family: fantasy;
+    font-size: 50px;
+}

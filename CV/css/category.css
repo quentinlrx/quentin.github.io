@@ -1,0 +1,12 @@
+.category{font-size: 1.2rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding: 20,20,30,20;
+    margin: 50px;
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+    background-image: url(../assets/couleur-wallpaper-style-fond.jpg);
+    color: aliceblue;
+    
+    }
